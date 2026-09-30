@@ -1,0 +1,22 @@
+{
+  "name": "disposable-email-validator-api",
+  "version": "1.0.0",
+  "description": "Ultra-fast zero-dependency Serverless & Node.js API to detect disposable burner emails and fraud domains",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --test test/test_validator.js"
+  },
+  "keywords": [
+    "email-validator",
+    "disposable-email",
+    "fraud-prevention",
+    "cloudflare-worker",
+    "serverless",
+    "micro-api",
+    "saas"
+  ],
+  "author": "Shokun123",
+  "license": "MIT"
+}

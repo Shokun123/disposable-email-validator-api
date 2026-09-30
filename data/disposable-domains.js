@@ -1,0 +1,38 @@
+/**
+ * Known Disposable / Burner Email Domains Set
+ */
+export const DISPOSABLE_DOMAINS = new Set([
+  'mailinator.com',
+  '10minutemail.com',
+  'temp-mail.org',
+  'tempmail.net',
+  'guerrillamail.com',
+  'guerrillamailblock.com',
+  'sharklasers.com',
+  'grr.la',
+  'throwawaymail.com',
+  'yopmail.com',
+  'yopmail.fr',
+  'trashmail.com',
+  'trashmail.net',
+  'getairmail.com',
+  'dispostable.com',
+  'fakeinbox.com',
+  'inboxkitten.com',
+  'burnermail.io',
+  'nada.ltd',
+  'mohmal.com',
+  'crazymailing.com',
+  'tempail.com',
+  'mytemp.email',
+  'fakemailgenerator.com',
+  'emailondeck.com',
+  'generator.email',
+  'tempmailaddress.com',
+  'dropmail.me',
+  'mailcatch.com',
+  'minutemail.com',
+  'trashinbox.com',
+  'discard.email',
+  'tempinbox.com'
+]);
